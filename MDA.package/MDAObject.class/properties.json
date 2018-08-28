@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/28/2018 13:23",
+	"super" : "Object",
+	"category" : "MDA",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MDAObject",
+	"type" : "normal"
+}
